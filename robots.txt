@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Genesis601.github.io/reference-wqesd1/sitemap.xml
